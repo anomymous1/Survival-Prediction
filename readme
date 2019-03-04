@@ -1,4 +1,2 @@
 
-This repository contains code for extracting the features used in our survival prediction study (requires Stanford Core NLP jars to run), together with a list of all retained linguistic features after model optimization.
-
-
+This repository contains code for extracting the features used in our survival prediction study (requires Stanford Core NLP jars to run).
